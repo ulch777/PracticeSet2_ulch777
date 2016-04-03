@@ -3,4 +3,5 @@
     <string name="initial_quantity_value">2</string>
     <string name="order">Order</string>
     <string name="quantity">Quantity</string>
+    <string name="price">Rpice</string>
 </resources>
